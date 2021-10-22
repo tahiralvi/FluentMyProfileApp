@@ -1,5 +1,3 @@
-using System;
-
 namespace FluentMyProfileApp.Models
 {
     public class ErrorViewModel
